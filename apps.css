@@ -1,0 +1,19 @@
+#container {
+    border: 5px solid black;
+    margin-top: 2%;
+    display: grid;
+    height: 575px;
+    width: 575px;
+  }
+
+.box {
+    border: 1px solid black;
+}
+
+button {
+    padding: 5px;
+}
+
+.black {
+    background-color: black;
+}
